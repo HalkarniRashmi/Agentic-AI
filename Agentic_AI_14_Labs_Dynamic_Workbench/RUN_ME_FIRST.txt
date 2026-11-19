@@ -1,0 +1,17 @@
+AGENTIC AI COURSE ORGANIZER — ONE ASSISTANT, 14 INTEGRATED CAPABILITIES
+
+1. Extract this ZIP.
+2. Open the extracted project root in VS Code.
+3. Double-click START_APPLICATION.bat (or run it from the VS Code terminal).
+4. Keep the terminal window open.
+5. Open http://127.0.0.1:8002/ and log in.
+6. Use the single Academic AI Assistant input to invoke the fourteen integrated capabilities.
+
+There are no separate lab launch buttons or standalone Lab Showcase page. Open the read-only capability map below the assistant to see all fourteen concepts and example prompts.
+
+Full instructions: README.md
+Professor demonstration prompts: DEMO_GUIDE.md
+Architecture and routing: INTEGRATED_ARCHITECTURE.md
+Test suite: RUN_TESTS.bat
+
+PROFESSOR: Use the professor dashboard to create student accounts, courses and enrolments. Then use the same Academic AI Assistant to query teaching-scope records and demonstrate the integrated capabilities.
